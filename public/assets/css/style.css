@@ -528,3 +528,7 @@ margin: auto;
 display: table;
 margin: auto;
 }
+
+.carousel-control-prev, .carousel-control-next{
+	background-color: rgba(0,0,0,0.2);
+}
