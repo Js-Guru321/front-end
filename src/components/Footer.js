@@ -94,9 +94,9 @@ class Footer extends Component {
                     <div className="copyright">
                         <p className="text-center text-white mt-2">Copyright 2019 onyxengines</p>
                         <ul className="social">
-                            <li className="fb"><Link to="#"></Link></li>
-                            <li className="in"><Link to="#"></Link></li>
-                            <li className="inst"><Link to="#"></Link></li>
+                            <li><Link to="#" style={{color: '#ff00bb'}}><i class="fab fa-facebook-square" style={{fontSize: '30px'}}></i></Link></li>
+                            <li><Link to="#" style={{color: '#ff00bb'}}><i class="fab fa-linkedin" style={{fontSize: '30px'}}></i></Link></li>c
+                            <li><Link to="#" style={{color: '#ff00bb'}}><i class="	fab fa-instagram" style={{fontSize: '30px'}}></i></Link></li>
                         </ul>
                     </div>
                 </div>

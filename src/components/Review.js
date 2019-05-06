@@ -33,17 +33,17 @@ class Review extends Component{
                             <div className="row">
                                 <div className="col-md-4">
                                     <figure className="figure mt-4">
-                                        <img src={process.env.PUBLIC_URL + "assets/images/instagram.png"} alt="Instagram" width="72" height="72"/>
+                                        <i className="fab fa-instagram" style={{ fontSize: '85px' }}></i>
                                     </figure>
                                 </div>
                                 <div className="col-md-4">
                                     <figure className="figure mt-4">
-                                        <img src={process.env.PUBLIC_URL + "assets/images/youtube.png"} alt="Youtube" width="60" height="72"/>
+                                        <i className="fab fa-youtube" style={{ fontSize: '85px' }}></i>
                                     </figure>
                                 </div>
                                 <div className="col-md-4">
                                     <figure className="figure mt-4">
-                                        <img src={process.env.PUBLIC_URL + "assets/images/social-icon3.png"} alt="Social" width="100" height="74"/>
+                                        <i className="fab fa-twitter" style={{ fontSize: '85px' }}></i>
                                     </figure>
                                 </div>
                             </div>

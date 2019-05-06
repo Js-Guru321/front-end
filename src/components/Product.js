@@ -5,10 +5,7 @@ import Tab from 'react-bootstrap/Tab'
 import Dropdown from 'react-bootstrap/Dropdown'
 // import SplitButton from 'react-bootstrap/SplitButton'
 // import DropdownButton from 'react-bootstrap/DropdownButton'
-import Nav from 'react-bootstrap/Nav';
-
-
-
+// import Nav from 'react-bootstrap/Nav';
 class Product extends Component{
     constructor(props, context){
         super(props, context);
